@@ -7,3 +7,4 @@ A compilation of issues around the impact of AI on education and resources for e
 
 ## Journalisms
 1. [New York Times Issues Stern Warning to Its Freelance Writers About AI Use](https://futurism.com/artificial-intelligence/new-york-times-freelancers-ai-rules)
+2. [AI use in American newspapers is widespread, uneven, and rarely disclosed](https://arxiv.org/abs/2510.18774)
